@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=avlima&theme=darcula&mode=weekly&card_width=467)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=avlima&theme=darcula&card_width=467)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=avlima&count_private=true&show_icons=true&theme=dark)
 
 <!--
